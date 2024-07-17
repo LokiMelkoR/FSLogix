@@ -68,7 +68,9 @@ Prerequisits
 Installation steps: 
 
   Download FSLogix at  : https://learn.microsoft.com/en-us/fslogix/how-to-install-fslogix#download-fslogix
+
   Release notes are at : https://learn.microsoft.com/en-us/fslogix/overview-release-notes
+  
   Known issues are at  : https://learn.microsoft.com/en-us/fslogix/troubleshooting-known-issues 
 
   Always test, test, test the patches before release to production. 
